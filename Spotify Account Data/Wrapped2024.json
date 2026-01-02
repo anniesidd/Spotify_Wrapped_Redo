@@ -1,0 +1,136 @@
+{
+  "topArtists": {
+    "numUniqueArtists": 1257,
+    "topArtists": [
+      {
+        "artistUri": "spotify:artist:6vWDO969PvNqNYHIOW5v0m"
+      },
+      {
+        "artistUri": "spotify:artist:4hz8tIajF2INpgM0qzPJz2"
+      },
+      {
+        "artistUri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
+      },
+      {
+        "artistUri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+      },
+      {
+        "artistUri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+      }
+    ],
+    "topArtistMilliseconds": 173132119,
+    "topArtistFanPercentage": 0.0017016751
+  },
+  "topPodcasts": {
+    "topPodcastsUri": [
+      "spotify:show:0KVZ16mLZ1bbNlnKemYTzm",
+      "spotify:show:1RefFgQB4Lrl7qczcTWA3o",
+      "spotify:show:4qAzYgpnj1i9vc6oBos0VG",
+      "spotify:show:5sCioSaEXylfv9CwRW26Cn",
+      "spotify:show:5W7uOd5p8kDwRzQU2CaBe7"
+    ],
+    "topPodcastMilliseconds": 220429952,
+    "topPodcastPercentage": 0.0,
+    "totalPodcastMilliseconds": 980224685
+  },
+  "topTracks": {
+    "topTracks": [
+      "spotify:track:0Z7nGFVCLfixWctgePsRk9",
+      "spotify:track:1UP7PXne1lIYZB5G5aiRGL",
+      "spotify:track:6Y4rniIxibegzsg8cdWAWV",
+      "spotify:track:7Ew5us0FuyUZZ4p6jRP2r3",
+      "spotify:track:51ZQ1vr10ffzbwIjDCwqm4"
+    ],
+    "topTrackPlayCount": 94,
+    "topTrackFirstPlayedDate": "2024-02-12",
+    "distinctTracksPlayed": 2922
+  },
+  "yearlyMetrics": {
+    "totalMsListened": 3197585829,
+    "mostListenedDay": "2024-03-11",
+    "mostListenedDayMinutes": 488.04007,
+    "percentGreaterThanWorldwideUsers": 96.11712
+  },
+  "musicEvolution": {
+    "eras": [
+      {
+        "key": "0",
+        "peakMonth": 3,
+        "color": "yellow",
+        "genre": "soft country",
+        "mood": "golden hour",
+        "pivotalArtists": [
+          "spotify:artist:70kkdajctXSbqSMJbQO424"
+        ],
+        "tracks": [
+          {
+            "trackName": "Deeper Well",
+            "trackUri": "spotify:track:333XFHKsHU0pOocFzBgrJi"
+          },
+          {
+            "trackName": "Moving Out",
+            "trackUri": "spotify:track:1LwT9Pou0rRCXPpXVWy5iA"
+          },
+          {
+            "trackName": "Giver / Taker",
+            "trackUri": "spotify:track:7aWAahCNnOyF1yP547S9fv"
+          }
+        ]
+      },
+      {
+        "key": "1",
+        "peakMonth": 4,
+        "color": "red",
+        "genre": "pop",
+        "mood": "pink pilates princess",
+        "descriptor": "strut",
+        "pivotalArtists": [
+          "spotify:artist:6vWDO969PvNqNYHIOW5v0m",
+          "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR",
+          "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+        ],
+        "tracks": [
+          {
+            "trackName": "TEXAS HOLD 'EM",
+            "trackUri": "spotify:track:0Z7nGFVCLfixWctgePsRk9"
+          },
+          {
+            "trackName": "II MOST WANTED",
+            "trackUri": "spotify:track:1UP7PXne1lIYZB5G5aiRGL"
+          },
+          {
+            "trackName": "BODYGUARD",
+            "trackUri": "spotify:track:6Y4rniIxibegzsg8cdWAWV"
+          }
+        ]
+      },
+      {
+        "key": "2",
+        "peakMonth": 10,
+        "color": "red",
+        "genre": "reggaeton",
+        "mood": "heatwave",
+        "descriptor": "beach",
+        "pivotalArtists": [
+          "spotify:artist:4q3ewBCX7sLwd24euuV69X",
+          "spotify:artist:790FomKkXshlbRYZFtlgla",
+          "spotify:artist:0GM7qgcRCORpGnfcN2tCiB"
+        ],
+        "tracks": [
+          {
+            "trackName": "Otro Atardecer",
+            "trackUri": "spotify:track:0E0DRHf5PfMeor0ZCwB3oT"
+          },
+          {
+            "trackName": "Si Antes Te Hubiera Conocido",
+            "trackUri": "spotify:track:6WatFBLVB0x077xWeoVc2k"
+          },
+          {
+            "trackName": "MOJABI GHOST",
+            "trackUri": "spotify:track:46YjJXVXWHlQ21odKktg5e"
+          }
+        ]
+      }
+    ]
+  }
+}
